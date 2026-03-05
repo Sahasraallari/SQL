@@ -1,0 +1,6 @@
+CREATE TABLE supplier(
+    SNO TEXT PRIMARY KEY,
+    SNAME TEXT,
+    MARKS INTEGER,
+    GRADE TEXT
+);
